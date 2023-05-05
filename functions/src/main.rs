@@ -1,8 +1,8 @@
 fn main() {
     println!("Hello, world!");
-    another_function()
+    another_function(5)
 }
 
-fn another_function() {
-    println!("New functions!");
+fn another_function(x: i32) {
+    println!("New functions! {}", x);
 }
