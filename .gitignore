@@ -2,3 +2,5 @@ guessing_game/target
 guessing_game/Cargo.lock
 variables/target
 functions/target
+visible/target
+*.lock
