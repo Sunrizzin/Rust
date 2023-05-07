@@ -4,3 +4,4 @@ variables/target
 functions/target
 visible/target
 *.lock
+links/target
