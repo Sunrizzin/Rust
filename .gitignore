@@ -5,3 +5,4 @@ functions/target
 visible/target
 *.lock
 links/target
+slice/target
