@@ -6,3 +6,4 @@ visible/target
 *.lock
 links/target
 slice/target
+structs/target
